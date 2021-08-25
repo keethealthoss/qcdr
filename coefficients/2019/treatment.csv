@@ -1,0 +1,3 @@
+TX_TYPE_CD,ODI.prob.mcd,ODI.prob.pain,NECK.prob.mcd,NECK.prob.pain,KNEE.prob.mcd,KNEE.prob.pain,LEFS.prob.mcd,LEFS.prob.pain,DASH.prob.mcd,DASH.prob.pain
+Conservative,0,0,0,0,0,0,0,0,0,0
+Surgical,-0.260562933,-0.292679677,-0.60001248,-0.40896508,0.719511058,0.814329829,0.216569119,0.234122143,0.588720418,0.620848138
