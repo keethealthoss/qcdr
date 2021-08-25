@@ -1,4 +1,4 @@
-![](docs/keethealth-logo.png) **ROMS Severity Adjusting**
+<img src="docs/keet-logo-color-white.png" height="25"/> **ROMS Severity Adjusting**
 
 **Using the Severity Adjustment tables to adjust failure to progress measures.**
 
