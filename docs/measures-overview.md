@@ -73,4 +73,4 @@ Expected = ROUND( avg_predicted_ftp * (performance_met + performance_not_met), 0
 
 This is calculated for both the operativeRisk and nonOpRisk strata which are then summed to produce the "overall" stratum.
 
-[Back home](../README.md)
+[BACK](../README.md)
