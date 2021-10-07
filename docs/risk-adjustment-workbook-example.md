@@ -3,9 +3,9 @@ Using the Excel Workbook.
 
 1. Download the workbook for the current reporting year.
 
-* [2019 - Risk Adjustment Workbook](../coefficients/2019/01 Example Excel Book.xlsx)
-* [2020 - Risk Adjustment Workbook](../coefficients/2020/01 Example Excel Book.xlsx)
-* [2021 - Risk Adjustment Workbook](../coefficients/2021/01 Example Excel Book.xlsx)
+* [2019 - Risk Adjustment Workbook](../coefficients/2019/01%Example%Excel%Book.xlsx)
+* [2020 - Risk Adjustment Workbook](../coefficients/2020/01%Example%Excel%Book.xlsx)
+* [2021 - Risk Adjustment Workbook](../coefficients/2021/01%Example%Excel%Book.xlsx)
 
 2. Open the workbook and look at the first sheet named, 'Patient Data'. This is where you input patient record data.
 
