@@ -9,7 +9,7 @@ Using the Excel Workbook.
 
 2. Open the workbook and look at the first sheet named, 'Patient Data'. This is where you input patient record data.
 
-![](patient_sample_data.png)
+![](patient_sample.png)
 
 The existing data shown here are synthetic data generated for the purpose of example. Each row represents a patient record, and each record consists of of both patient reported outcome measure response (e.g. the survey score), along with supplemntal patient data. There are a set of corresponding spreadsheets that map to predictors of FTP, these include:
 
