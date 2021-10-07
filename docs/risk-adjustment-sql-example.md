@@ -19,13 +19,13 @@ SELECT DISTINCT
                 sex.`MDQ.prob.mcd` + txtype.`MDQ.prob.mcd` + dur.`MDQ.prob.mcd` AS `Predicted Score`
 FROM intercepts AS int,
      `odi.test` AS odi
-  JOIN admit ON odi.ADMIT_SCORE_NO = admit.ADMIT_SCORE_NO
-  JOIN pain ON odi.ADMIT_PAIN_NO = pain.ADMIT_PAIN_NO
-  JOIN age ON odi.AGE = age.`Age.num`
-  JOIN pyr ON odi.pyr2 = pyr.pyr2
-  JOIN sex ON odi.GENDER_DSC = sex.GENDER_DSC
-  JOIN txtype ON odi.`TX_TYPE_CD` = txtype.`TX_TYPE_CD`
-  JOIN dur ON odi.DurCat = dur.DurCat
+  LEFT JOIN admit ON odi.ADMIT_SCORE_NO = admit.ADMIT_SCORE_NO
+  LEFT JOIN pain ON odi.ADMIT_PAIN_NO = pain.ADMIT_PAIN_NO
+  LEFT JOIN age ON odi.AGE = age.`Age.num`
+  LEFT JOIN pyr ON odi.pyr2 = pyr.pyr2
+  LEFT JOIN sex ON odi.GENDER_DSC = sex.GENDER_DSC
+  LEFT JOIN txtype ON odi.`TX_TYPE_CD` = txtype.`TX_TYPE_CD`
+  LEFT JOIN dur ON odi.DurCat = dur.DurCat
 ;
 ```
 
