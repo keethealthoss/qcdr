@@ -57,10 +57,15 @@ For example, if we have a patient who is a 43 year old Male, admitted with an MD
 4. Predict Patient FTP Rate.  So for this example the sum would be:
 
 ```
--2.65904 + -1.16585 + 0.063434 + 4.3049793 + -0.1756 + -0.0825 + -0.00981 + 0 = 0.2756133
+x = -2.65904 + -1.16585 + 0.063434 + 4.3049793 + -0.1756 + -0.0825 + -0.00981 + 0
+```
+where x sums to 0.2756133. Using the summed value, you can then convert this to a probability value between 0.0000 and 1.0000.
+
+```
+p = EXP(x) / EXP(1+x)
 ```
 
-So the final probability for failure to progress for this patient is or 43% chance of failure to progress.
+So the final probability p, for failure to progress for this patient is 0.36787 or 36.79% chance of failure to progress.
 
 5. Predict Patient FTP Rate for Entire Sample Population. Once you have tested and verified that you can generate predictions, you can now apply the same method to all patients.
 
