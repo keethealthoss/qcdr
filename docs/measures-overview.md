@@ -56,21 +56,5 @@ See: [Multi-Performance Rate Stratum](https://cmsgov.github.io/qpp-submissions-d
 
 Note because the IROMS measures are inverse by design, the "performanceMet" category represents those patients who failed to meet the MCID. Patients who met or exceeded the MCID are counted in "performanceNotMet" category. For more information about submitting measures to CMS, please checkout the [QPP Submission API Docs](https://cmsgov.github.io/qpp-submissions-docs/)
 
-### Important Note:
-When submitting data, the QPP API expects to recieve non-negative integers for all strata in the measure; these are population counts. The workbook example takes the mean of probability for all patients being submitted under a TIN/NPI. This is not a population count. You would need to calculate an expected population count using average predicted FTP.
 
-**Expected**: number of patients predicted to NOT meet the MCID.
-
-```
-Expected = avg_predicted_ftp * (performance_met + performance_not_met)
-```
-
-The **Expected** value is then rounded downward to the 0th decimal, resulting in a non-negative integer.
-
-```
-Expected = ROUND( avg_predicted_ftp * (performance_met + performance_not_met), 0 )
-```
-
-This is calculated for both the operativeRisk and nonOpRisk strata which are then summed to produce the "overall" stratum.
-
-[Back home](../README.md)
+[BACK](../README.md)
