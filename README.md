@@ -1,6 +1,6 @@
-<img src="docs/keet-logo-color-white.png" height="25"/>  **Keet Outcomes - Qualified Clinical Data Registry (QCDR)**
+<img src="docs/keet-logo-color-white.png" height="25"/>  
 
-## Overview
+## Keet Outcomes - Qualified Clinical Data Registry (QCDR)
 This repo provides access to Keet Outcomes (IROMS) Measures, and the risk adjustment models used in predicting failure to progress (FTP).
 
 ## Getting Started
@@ -12,7 +12,6 @@ There are several ways to use the risk adjustment models. The first approach use
 * [Risk Adjustment - Method 1 - Excel Workbook](docs/risk-adjustment-workbook-example.md)
 * [Risk Adjustment - Method 2 - CSV Tables](docs/risk-adjustment-csv-example.md)
 * [Risk Adjustment - Method 3 - SQL Example](docs/risk-adjustment-sql-example.md)
-
 
 ### Preparing Data for Submission
 The repo also provides the **measures descriptions** and **measures schemas** published by CMS every year since the IROMS measures were approved by CMS. CMS publishes the **measures descriptions** and **measures schemas** every year on the QPP-CMS Github. Keet copies both the definitions and schema for each year and loads them here for ease.
