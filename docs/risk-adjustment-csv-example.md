@@ -24,35 +24,35 @@ For example, if we have a patient who is a 43 year old Male, admitted with an MD
 
   Intercepts:
 
-    ![](intercepts.png)
+![](intercepts.png)
 
   Age:
 
-    ![](age.png)
+![](age.png)
 
   Sex:
 
-    ![](gender.png)
+![](gender.png)
 
   Admit Score:
 
-    ![](admit_score.png)
+![](admit_score.png)
 
   Pain Score (at admit):
 
-    ![](admit_pain.png)
+![](admit_pain.png)
 
   Payer (Insurance) type:
 
-    ![](payer.png)
+![](payer.png)
 
   Duration (days since injury/surgery):
 
-    ![](duration.png)
+![](duration.png)
 
   Treatment type:
 
-    ![](treatment.png)
+![](treatment.png)
 
 4. Predict Patient FTP Rate.  So for this example the sum would be:
 
