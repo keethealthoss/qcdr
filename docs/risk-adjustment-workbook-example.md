@@ -58,8 +58,6 @@ A value of 0 (zero) is neutral and means that the failure to progress rate match
 
 Column B is the predicted values for each patient based on the formula and lookup tables above. Column C just indicates whether each patient failed to progress. For this clinic the predicted failure rate is 0.383 (38.3%) and the actual failure rate is 0.3 (30%) for a difference of -0.083 (-8.3%) meaning that they out performed expectation by 8.3%.
 
-[Back Home](../README.md)
-
 7. Scale Performance Rate Difference
 Column M represents the individual patient level values for the Performance Rate Difference described above.
 
@@ -68,3 +66,6 @@ In order to report the Performance Rate Difference described above, we need to s
 ![](scaled_performance.png)
 
 This value represents the same measure as the `Difference (adjusted)` measure from step 6, but transformed into the numerator of a fraction at the population level for the population under consideration.
+
+
+[Back Home](../README.md)
