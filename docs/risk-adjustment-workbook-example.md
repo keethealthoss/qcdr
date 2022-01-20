@@ -3,9 +3,9 @@ Using the Excel Workbook.
 
 1. Download the workbook for the current reporting year.
 
-* [2019 - Risk Adjustment Workbook](../coefficients/2019/01%Example%Excel%Book.xlsx)
-* [2020 - Risk Adjustment Workbook](../coefficients/2020/01%Example%Excel%Book.xlsx)
-* [2021 - Risk Adjustment Workbook](../coefficients/2021/01%Example%Excel%Book.xlsx)
+* [2019 - Risk Adjustment Workbook](../coefficients/2019/01%20Example%20Excel%20Book.xlsx)
+* [2020 - Risk Adjustment Workbook](../coefficients/2020/01%20Example%20Excel%20Book.xlsx)
+* [2021 - Risk Adjustment Workbook](../coefficients/2021/01%20Example%20Excel%20Book.xlsx)
 
 2. Open the workbook and look at the first sheet named, 'Patient Data'. This is where you input patient record data.
 
@@ -59,3 +59,12 @@ A value of 0 (zero) is neutral and means that the failure to progress rate match
 Column B is the predicted values for each patient based on the formula and lookup tables above. Column C just indicates whether each patient failed to progress. For this clinic the predicted failure rate is 0.383 (38.3%) and the actual failure rate is 0.3 (30%) for a difference of -0.083 (-8.3%) meaning that they out performed expectation by 8.3%.
 
 [Back Home](../README.md)
+
+7. Scale Performance Rate Difference
+Column M represents the individual patient level values for the Performance Rate Difference described above.
+
+In order to report the Performance Rate Difference described above, we need to scale the values into a positive population level measure. Column N represents this value, and is calculated by taking the value in Column M and transforming into a positive number between 0.0 and 1.0 as `y = (x + 1) / 2`
+
+![](scaled_performance.png)
+
+This value represents the same measure as the `Difference (adjusted)` measure from step 6, but transformed into the numerator of a fraction at the population level for the population under consideration.
