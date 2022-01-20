@@ -77,4 +77,11 @@ Calculate the mean of the predicted probabilities and the mean of the indicators
 'Performance Rate Difference' = 'Observed FTP Rate' - 'Predicted FTP Rate'
 ```
 
+7. Scale Performance Rate Difference
+As in the Workbook example, we now scale the performance rate difference into a measure in the range 0.0 to 1.0 by taking
+
+`'Scaled Performance Rate Difference' = ('Performance Rate Difference' + 1) / 2`
+
+This metric represents the same value as computed above, but scaled into a different range. The sum of this value at a patient level can be reported as the numerator of a population, in order to report the correct Performance Rate described in step 6.
+
 [Back Home](../README.md)
