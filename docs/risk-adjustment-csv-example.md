@@ -6,6 +6,7 @@ Using the CSV tables to generate risk adjusted patient data.
 * [2019 - Risk Adjustment Tables](../coefficients/2019)
 * [2020 - Risk Adjustment Tables](../coefficients/2020)
 * [2021 - Risk Adjustment Tables](../coefficients/2021)
+* [2022 - Risk Adjustment Tables](../coefficients/2022)
 
 2. Open each file. You will notice there are 2 columns for each outcome measure, the column labels consist of the name of the outcome measure (MDQ, NECK, KOS, LEFS, or DASH) followed by a period (&quot;.&quot;) and then either &quot;prob.mcd&quot; or &quot;prob.pain&quot;. The &quot;prob.mcd&quot; columns are used to predict failure to progress (achieve a minimal clinically important difference, scale specific to the measure) on the outcome measure scale and the &quot;prob.pain&quot; is used to predict a change in the pain scale of at least 2 points (the MCID for pain).
 
