@@ -1,0 +1,4 @@
+GENDER_DSC,MDQ.prob.mcd,MDQ.prob.pain,NDI.prob.mcid,NDI.prob.pain,KOS.prob.mcd,KOS.prob.pain,LEFS.prob.mcd,LEFS.prob.pain,QDASH.prob.mcd,QDASH.prob.pain
+Female,0,0,0,0,0,0,0,0,0,0
+Male,-0.079109,0,0,0,-0.081825,-0.128657,0,-0.085064,-0.187781,-0.075704
+Unknown,0.812885,0,0,0,0,0,0,0,0,0
