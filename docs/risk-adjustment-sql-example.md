@@ -6,6 +6,7 @@ Using SQL to calculate patients' probability of failure to progress. Follow the 
   * [2020 - Risk Adjustment Tables](../coefficients/2020)
   * [2021 - Risk Adjustment Tables](../coefficients/2021)
   * [2022 - Risk Adjustment Tables](../coefficients/2022)
+  * [2023 - Risk Adjustment Tables](../coefficients/2023)
 * Load the CSV tables into a SQL database
 * Query sample patient population
 * Query new Risk Adjustment Tables
