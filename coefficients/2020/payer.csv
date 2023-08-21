@@ -1,4 +1,4 @@
-pyr2,ODI.prob.mcd,ODI.prob.pain,NECK.prob.mcd,NECK.prob.pain,KNEE.prob.mcd,KNEE.prob.pain,LEFS.prob.mcd,LEFS.prob.pain,DASH.prob.mcd,DASH.prob.pain
+pyr2,ODI.prob.mcid,ODI.prob.pain,NECK.prob.mcid,NECK.prob.pain,KNEE.prob.mcid,KNEE.prob.pain,LEFS.prob.mcid,LEFS.prob.pain,DASH.prob.mcid,DASH.prob.pain
 Missing,0,0,0,0,0,0,0,0,0,0
 Auto,0,0,0,0,0,0,0,0,0,0
 Comercial,0.20251017,0.22959582,0.19867546,0.1340383,-0.3547638,-0.3779262,0.4794358,0.09378184,-0.1551239,-0.0558477

@@ -1,4 +1,4 @@
-ADMIT_SCORE_NO,MDQ.prob.mcd,MDQ.prob.pain,NDI.prob.mcid,NDI.prob.pain,KOS.prob.mcd,KOS.prob.pain,LEFS.prob.mcd,LEFS.prob.pain,QDASH.prob.mcd,QDASH.prob.pain
+ADMIT_SCORE_NO,MDQ.prob.mcid,MDQ.prob.pain,NDI.prob.mcid,NDI.prob.pain,KOS.prob.mcid,KOS.prob.pain,LEFS.prob.mcid,LEFS.prob.pain,QDASH.prob.mcid,QDASH.prob.pain
 0,0,0,0,0,0,0,0,0,0,0
 1,-0.040737,0.016944,-0.038092,0.025579,0.049111,-0.008891,0.047968,-0.012329,-0.043201,0.01062
 2,-0.081474,0.033888,-0.076184,0.051158,0.098222,-0.017782,0.095936,-0.024658,-0.086402,0.02124

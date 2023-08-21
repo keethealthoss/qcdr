@@ -1,4 +1,4 @@
-ADMIT_PAIN_NO,ODI.prob.mcd,ODI.prob.pain,NECK.prob.mcd,NECK.prob.pain,KNEE.prob.mcd,KNEE.prob.pain,LEFS.prob.mcd,LEFS.prob.pain,DASH.prob.mcd,DASH.prob.pain
+ADMIT_PAIN_NO,ODI.prob.mcid,ODI.prob.pain,NECK.prob.mcid,NECK.prob.pain,KNEE.prob.mcid,KNEE.prob.pain,LEFS.prob.mcid,LEFS.prob.pain,DASH.prob.mcid,DASH.prob.pain
 0,0,0,0,0,0,0,0,0,0,0
 1,0.00201439,-0.4752226,0.05518203,-0.4162018,0.06310058,-0.5026995,0.05202202,-0.50109,0.08686449,-0.4706628
 2,0.00402879,-0.9504451,0.11036407,-0.8324037,-0.0524475,0.395577,0.10404403,-1.00218,0.17372898,-0.9413257
