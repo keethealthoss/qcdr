@@ -1,4 +1,4 @@
-lower,upper,DurCat,ODI.prob.mcd,ODI.prob.pain,NECK.prob.mcd,NECK.prob.pain,KNEE.prob.mcd,KNEE.prob.pain,LEFS.prob.mcd,LEFS.prob.pain,DASH.prob.mcd,DASH.prob.pain
+lower,upper,DurCat,ODI.prob.mcid,ODI.prob.pain,NECK.prob.mcid,NECK.prob.pain,KNEE.prob.mcid,KNEE.prob.pain,LEFS.prob.mcid,LEFS.prob.pain,DASH.prob.mcid,DASH.prob.pain
 Missing,Missing,Missing,0.4940698219,0.179537429,0.2594098973,0.1387292422,0.1879471339,0.155791068,0.4776017627,0.3609686127,0.9376282525,0.306167341
 0,7,"[0,7]",0,0,0,0,0,0,0,0,0,0
 7.01,14,"(7,14]",-0.05455877886,-0.1237410581,-0.1380449218,-0.2139112965,-0.2476262234,-0.06861824458,-0.2962609432,-0.3401682722,-0.3205414933,-0.291230308

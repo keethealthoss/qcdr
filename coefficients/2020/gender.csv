@@ -1,4 +1,4 @@
-GENDER_DSC,ODI.prob.mcd,ODI.prob.pain,NECK.prob.mcd,NECK.prob.pain,KNEE.prob.mcd,KNEE.prob.pain,LEFS.prob.mcd,LEFS.prob.pain,DASH.prob.mcd,DASH.prob.pain
+GENDER_DSC,ODI.prob.mcid,ODI.prob.pain,NECK.prob.mcid,NECK.prob.pain,KNEE.prob.mcid,KNEE.prob.pain,LEFS.prob.mcid,LEFS.prob.pain,DASH.prob.mcid,DASH.prob.pain
 Female,0,0,0,0,0,0,0,0,0,0
 Male,0.00377276,0.06042799,-0.0943752,-0.0171273,-0.0582244,-0.072899,-0.0331135,-0.0042826,-0.0612504,0.02529195
 Unknown,0,0,0,0,0,0,0,0,0,0

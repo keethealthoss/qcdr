@@ -1,4 +1,4 @@
-pyr2,ODI.prob.mcd,ODI.prob.pain,NECK.prob.mcd,NECK.prob.pain,KNEE.prob.mcd,KNEE.prob.pain,LEFS.prob.mcd,LEFS.prob.pain,DASH.prob.mcd,DASH.prob.pain
+pyr2,ODI.prob.mcid,ODI.prob.pain,NECK.prob.mcid,NECK.prob.pain,KNEE.prob.mcid,KNEE.prob.pain,LEFS.prob.mcid,LEFS.prob.pain,DASH.prob.mcid,DASH.prob.pain
 Charity,0,0,0,0,0,0,0,0,0,0
 Comercial,-0.08250391364,0.04055117716,0.6213688766,1.013320993,0.1478947918,0.1979608114,0.6972800287,0.117258912,0.1837362339,0.3511584449
 Government,-0.3044307823,-0.3725768381,0.5128127074,1.034798692,0.186676127,-0.0533275811,0.3207177689,-0.3701520075,0.0988262605,-0.06230151869
